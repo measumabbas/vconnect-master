@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="14px" height="14px" viewBox="0 0 14 14" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: sketchtool 55.1 (78136) - https://sketchapp.com -->
+    <title>28381211-116A-4BE0-B403-CE14B3598C53</title>
+    <desc>Created with sketchtool.</desc>
+    <defs>
+        <path d="M5.60737463,7.02694353 L0.337106781,1.75667568 C-0.0534175106,1.36615139 -0.0534175106,0.732986412 0.337106781,0.34246212 C0.727631073,-0.0480621715 1.36079605,-0.0480621715 1.75132034,0.34246212 L7.02158819,5.61272997 L12.2872114,0.347106781 C12.6777357,-0.0434175106 13.3109007,-0.0434175106 13.7014249,0.347106781 C14.0919492,0.737631073 14.0919492,1.37079605 13.7014249,1.76132034 L8.43580176,7.02694353 L13.7014249,12.2925667 C14.0919492,12.683091 14.0919492,13.316256 13.7014249,13.7067803 C13.3109007,14.0973046 12.6777357,14.0973046 12.2872114,13.7067803 L7.02158819,8.4411571 L1.75132034,13.7114249 C1.36079605,14.1019492 0.727631073,14.1019492 0.337106781,13.7114249 C-0.0534175106,13.3209007 -0.0534175106,12.6877357 0.337106781,12.2972114 L5.60737463,7.02694353 Z" id="path-1"></path>
+    </defs>
+    <g id="UI-Kit-v2.0.1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Iconography" transform="translate(-163.000000, -1934.000000)">
+            <g id="Icons" transform="translate(145.000000, 1348.000000)">
+                <g id="Filled" transform="translate(4.000000, 104.000000)">
+                    <g id="Filled-Icons" transform="translate(0.000000, 67.000000)">
+                        <g id="Icons/Filled/Close" transform="translate(14.000000, 415.000000)">
+                            <g id="Color/Vivid-blue" transform="translate(0.000000, 0.000000)">
+                                <mask id="mask-2" fill="white">
+                                    <use xlink:href="#path-1"></use>
+                                </mask>
+                                <use id="Mask" fill="#CBD1D7" xlink:href="#path-1"></use>
+                                <g mask="url(#mask-2)" fill="#CBD1D7" id="Rectangle">
+                                    <rect x="0" y="0" width="14" height="14"></rect>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
